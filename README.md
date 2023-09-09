@@ -1,4 +1,5 @@
 # CSV-JSON Exchange WASM
+[![Rust build and Unittest](https://github.com/yoshitaka-motomura/csv-json-excange-wasm/actions/workflows/rust-test.yml/badge.svg?branch=main)](https://github.com/yoshitaka-motomura/csv-json-excange-wasm/actions/workflows/rust-test.yml)
 
 ## :open_book: Description
 
